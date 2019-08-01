@@ -1,0 +1,141 @@
+.head {
+  top: 60px;
+  height: 60px;
+  background: #ffffff;
+}
+.logo {
+  height: 350px;
+  background: #99ccff;
+}
+
+.logo h1 {
+  font-family: "Shift", sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 300px;
+}
+.choice {
+  height: 150px;
+  background: #cccccc;
+}
+
+.body span {
+  font-family: "Shift", sans-serif;
+  font-display: center;
+}
+.pull-right li {
+  float: center;
+  display: inline;
+  padding: 10px 10px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+.pull-right ul {
+  display: inline;
+}
+.pull-right a {
+  color: black;
+  font-display: right;
+  font-weight: bold;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+.pull-left {
+  float: right;
+  color: black;
+  font-display: right;
+  font-weight: bold;
+  padding: 10px 10px;
+  padding-right: 10px;
+  text-decoration: none;
+}
+.footer {
+  text-align: center;
+  background-color: #ffffff;
+  height: 150px;
+}
+
+.container {
+  padding: 40px;
+  height: 500px;
+  background-color: #ffffff;
+  /*border-bottom: 1px solid #dbdbdb;*/
+}
+.body {
+  margin: 0px;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+/*1
+.page-section {
+  padding: 100px 0;
+}
+
+.page-section h2.section-heading {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.page-section h3.section-subheading {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 75px;
+  text-transform: none;
+  font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.div-position {
+  margin-top: -48px;
+}
+
+.main-content {
+  color: #fff;
+  padding-top: 115px;
+}
+
+.section-align {
+  margin-top: -48px;
+}
+
+.contentnew {
+  margin-top: -48px;
+}
+
+.main-content button {
+  font-size: 13px;
+  color: #fff;
+}
+
+.btn-danger {
+  color: #f3051c;
+  background-color: #f3051c;
+  border-color: #f3051c;
+  margin-left: 1rem;
+}
+
+.member-socialmedia .ml-3,
+.mx-3 {
+  margin-left: 1rem !important;
+}
+
+button.ml-3,
+.mx-3 {
+  margin-left: 0rem !important;
+}*/
